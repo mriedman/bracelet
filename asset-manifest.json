@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "mriedman.github.io/bracelet/static/css/main.7bd0faa2.chunk.css",
+    "main.js": "mriedman.github.io/bracelet/static/js/main.acf97968.chunk.js",
+    "main.js.map": "mriedman.github.io/bracelet/static/js/main.acf97968.chunk.js.map",
+    "runtime~main.js": "mriedman.github.io/bracelet/static/js/runtime~main.2e836d80.js",
+    "runtime~main.js.map": "mriedman.github.io/bracelet/static/js/runtime~main.2e836d80.js.map",
+    "static/js/2.8b6ec6c3.chunk.js": "mriedman.github.io/bracelet/static/js/2.8b6ec6c3.chunk.js",
+    "static/js/2.8b6ec6c3.chunk.js.map": "mriedman.github.io/bracelet/static/js/2.8b6ec6c3.chunk.js.map",
+    "index.html": "mriedman.github.io/bracelet/index.html",
+    "precache-manifest.dd1420a8e2d1861bc4e5a3dfc5ef8ae1.js": "mriedman.github.io/bracelet/precache-manifest.dd1420a8e2d1861bc4e5a3dfc5ef8ae1.js",
+    "service-worker.js": "mriedman.github.io/bracelet/service-worker.js",
+    "static/css/main.7bd0faa2.chunk.css.map": "mriedman.github.io/bracelet/static/css/main.7bd0faa2.chunk.css.map"
+  }
+}
